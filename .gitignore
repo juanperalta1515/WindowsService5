@@ -4,7 +4,7 @@
 # Object files
 *.o
 *.ko
-*.obj
+
 *.elf
 
 # Linker output
@@ -17,11 +17,6 @@
 *.pch
 
 # Libraries
-*.lib
-*.a
-*.la
-*.lo
-
 # Shared objects (inc. Windows DLLs)
 *.dylib
 
