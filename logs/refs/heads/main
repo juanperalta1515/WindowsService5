@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 df728175a3ad4792742c6d0f543ee0b749aa8c76 Juan Peralta <juanperalta2015f@gmail.com> 1647391009 -0300	clone: from https://github.com/juanperalta1515/WindowsService5.git
+df728175a3ad4792742c6d0f543ee0b749aa8c76 8d6a7a6314d09a56e5b77743ba1fe2658bc386c1 Juan Peralta <juanperalta2015f@gmail.com> 1647391417 -0300	commit: Creacion de Logger e inyeccion de dependencias.
+8d6a7a6314d09a56e5b77743ba1fe2658bc386c1 8b3e61db70e98184a2c2e058d4d92c4c007f0953 Juan Peralta <juanperalta2015f@gmail.com> 1647392754 -0300	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
